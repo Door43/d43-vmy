@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[vmy:home|Door43 (vmy)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-vmy|d43-vmy repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-vmy/archive/master.zip|d43-vmy.zip]]
+
+**Recent Changes**
+{{changes>ns = vmy}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/vmy|Ethnologue data]]
+
